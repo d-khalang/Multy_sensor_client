@@ -18,7 +18,7 @@ This project facilitates communication between IoT devices using the MQTT protoc
 
 ## Usage
 
-To get started, run **sensor.py** and **SensorClient**
+To get started, run **sensor.py** and **sensorClient**
     and ensure to input the same name for both programs.
 
 
